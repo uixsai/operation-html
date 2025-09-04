@@ -103,3 +103,12 @@
 </html>
 <!-- ⚠️ Mistake: forgetting </html> -->
 <!-- ✅ Correct: must close html -->
+
+void elemnts (self closing tags) 
+       some tags dont wrap content at all they just are standalone instructions called void elements . 
+       content tags - needs closing (/>) browser doesnt know content unless we put inside it 
+       void tags - does not need closing (/>) bcoz these are self closing (>) they are just instructions to browser 
+       content tags - <h1></h1> , <p></p> , <title></title>
+       void tags - <link> also one elemnt is there as u can see and is self closing too 
+       <meta> 
+       
